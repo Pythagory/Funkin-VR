@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.s3tc.stex"
 path.etc2="res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.etc2.stex"
-path.etc="res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/models/stages/week_5/scary_mats/textures/Shopping wall monster.png"
-dest_files=[ "res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.s3tc.stex", "res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.etc2.stex", "res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.etc.stex" ]
+dest_files=[ "res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.s3tc.stex", "res://.import/Shopping wall monster.png-fccd75901779982b27f43132e2e7ce8e.etc2.stex" ]
 
 [params]
 

@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.s3tc.stex"
 path.etc2="res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.etc2.stex"
-path.etc="res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/graphics/menus/dev_icons/FURRY.png"
-dest_files=[ "res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.s3tc.stex", "res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.etc2.stex", "res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.etc.stex" ]
+dest_files=[ "res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.s3tc.stex", "res://.import/FURRY.png-ff2ab64d82a95cb9f2764c3fe5689e7c.etc2.stex" ]
 
 [params]
 

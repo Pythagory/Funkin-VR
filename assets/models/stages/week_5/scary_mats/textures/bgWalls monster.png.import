@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.s3tc.stex"
 path.etc2="res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.etc2.stex"
-path.etc="res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/models/stages/week_5/scary_mats/textures/bgWalls monster.png"
-dest_files=[ "res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.s3tc.stex", "res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.etc2.stex", "res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.etc.stex" ]
+dest_files=[ "res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.s3tc.stex", "res://.import/bgWalls monster.png-66b2976c5d0f6cdedbc68b2895c2306b.etc2.stex" ]
 
 [params]
 

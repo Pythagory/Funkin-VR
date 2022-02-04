@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.s3tc.stex"
 path.etc2="res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.etc2.stex"
-path.etc="res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/graphics/menus/dev_icons/Slushy-Icon.png"
-dest_files=[ "res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.s3tc.stex", "res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.etc2.stex", "res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.etc.stex" ]
+dest_files=[ "res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.s3tc.stex", "res://.import/Slushy-Icon.png-170fceb33631b38b3fdbfec9ebad9297.etc2.stex" ]
 
 [params]
 

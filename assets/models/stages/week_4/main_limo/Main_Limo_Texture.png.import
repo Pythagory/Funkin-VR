@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.s3tc.stex"
 path.etc2="res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.etc2.stex"
-path.etc="res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/models/stages/week_4/main_limo/Main_Limo_Texture.png"
-dest_files=[ "res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.s3tc.stex", "res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.etc2.stex", "res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.etc.stex" ]
+dest_files=[ "res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.s3tc.stex", "res://.import/Main_Limo_Texture.png-2daad587d0eb302fdce1daddcfaecc0b.etc2.stex" ]
 
 [params]
 

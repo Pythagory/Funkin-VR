@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.s3tc.stex"
 path.etc2="res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.etc2.stex"
-path.etc="res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/graphics/menus/fading_circle.png"
-dest_files=[ "res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.s3tc.stex", "res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.etc2.stex", "res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.etc.stex" ]
+dest_files=[ "res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.s3tc.stex", "res://.import/fading_circle.png-af6e05cd5fae0f898945d3fa90e0bd12.etc2.stex" ]
 
 [params]
 

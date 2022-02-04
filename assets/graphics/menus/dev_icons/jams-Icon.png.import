@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.s3tc.stex"
 path.etc2="res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.etc2.stex"
-path.etc="res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/graphics/menus/dev_icons/jams-Icon.png"
-dest_files=[ "res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.s3tc.stex", "res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.etc2.stex", "res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.etc.stex" ]
+dest_files=[ "res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.s3tc.stex", "res://.import/jams-Icon.png-bb4cd5988f9ae4db4af97ccdb71d2d96.etc2.stex" ]
 
 [params]
 

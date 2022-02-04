@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.s3tc.stex"
 path.etc2="res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.etc2.stex"
-path.etc="res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/models/chars/parents/Mom Christmas Texture.png"
-dest_files=[ "res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.s3tc.stex", "res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.etc2.stex", "res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.etc.stex" ]
+dest_files=[ "res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.s3tc.stex", "res://.import/Mom Christmas Texture.png-d6d0ae807b4aeb4e458a69870d7efc5b.etc2.stex" ]
 
 [params]
 

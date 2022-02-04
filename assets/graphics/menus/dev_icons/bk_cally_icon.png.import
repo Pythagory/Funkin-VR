@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.s3tc.stex"
 path.etc2="res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.etc2.stex"
-path.etc="res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/graphics/menus/dev_icons/bk_cally_icon.png"
-dest_files=[ "res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.s3tc.stex", "res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.etc2.stex", "res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.etc.stex" ]
+dest_files=[ "res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.s3tc.stex", "res://.import/bk_cally_icon.png-fbb962dad2f28c74975a108f5854031a.etc2.stex" ]
 
 [params]
 

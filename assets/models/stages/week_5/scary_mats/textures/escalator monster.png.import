@@ -4,16 +4,15 @@ importer="texture"
 type="StreamTexture"
 path.s3tc="res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.s3tc.stex"
 path.etc2="res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.etc2.stex"
-path.etc="res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.etc.stex"
 metadata={
-"imported_formats": [ "s3tc", "etc2", "etc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://assets/models/stages/week_5/scary_mats/textures/escalator monster.png"
-dest_files=[ "res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.s3tc.stex", "res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.etc2.stex", "res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.etc.stex" ]
+dest_files=[ "res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.s3tc.stex", "res://.import/escalator monster.png-783c0a5a307717f6152ad17fa3ba2206.etc2.stex" ]
 
 [params]
 
